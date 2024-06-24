@@ -1,6 +1,9 @@
 # Reddit Video Maker Bot 🎥
 
-All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
+This is my first Youtube project where I learned python and automation from scratch. This is my inspirational project where I have decided to switch my career path. 
+
+
+
 
 Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
 
